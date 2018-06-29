@@ -1,7 +1,7 @@
 {
 	"name":		"TabGrab",
 	"version":	"0.1",
-	"description":	"Easily identify which tab is burning CPU or by PID",
+	"description":	"Easily identify & kill whichever tab is burning CPU",
 	"permissions": ["storage"],
 	"background":	{
 		"scripts": ["background.js"],
